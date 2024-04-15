@@ -1,0 +1,2 @@
+//tamanho variavel. As vantagens é que se pode ter arquivos com tamanhos diferentes para situações específicas e facil de se ler e manipular.
+//Desvantagens: é necessário muito mecanismo para a leitura desses arquivos, sendo preciso muito mais poder computacional.
